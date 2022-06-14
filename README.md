@@ -19,11 +19,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="expres" alt="expres" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :hammer_and_wrench: Codewars statistics:
 
-[![codewars](https://www.codewars.com/users/the69nemo/badges/large)](https://www.codewars.com/users/the69nemo/badges/large)  
+[![codewars](https://www.codewars.com/users/the69nemo/badges/large)](https://www.codewars.com/users/the69nemo/badges/large) 
+
+---
+
+### :hammer_and_wrench: Some Github statistics:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the69nemo&theme=tokyonight)
