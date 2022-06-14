@@ -2,7 +2,7 @@
 
 *Я - начинающий frontend разработчик. Сейчас открыт любым предложениям по работе*
 
-### Hi, I'm Serhei and I welcome you to my Github page
+### Hi, I'm Sergei and I welcome you to my Github page
 
 *I am a novice frontend developer. I am now open to any job offers*
 
