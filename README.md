@@ -1,8 +1,8 @@
-### Привет, я Сергей и я приветствую Тебя на моей странице GitHub
+### Привет, я Сергей. Приветствую тебя на моей странице GitHub
 
 *Я - frontend разработчик. Сейчас открыт любым предложениям по работе*
 
-### Hi, I'm Sergei and I welcome you to my Github page
+### Hi, I'm Sergei. I welcome you to my Github page
 
 *I am a frontend developer. I am now open to any job offers*
 
